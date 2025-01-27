@@ -1,0 +1,32 @@
+{
+  "name": "next-antd-boilerplate",
+  "description": "This is a boilerplate project for building web applications using Next.js and Ant Design.",
+  "author": {
+    "name": "Eranova",
+    "url": "https://exb.ro",
+    "email": "contact@exb.ro"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.2",
+    "antd": "^5.23.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "@ant-design/v5-patch-for-react-19": "^1.0.3",
+    "@types/node": "^22.10.10",
+    "@types/react": "^19.0.8",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "typescript": "^4.5.4"
+  }
+}
